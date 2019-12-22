@@ -20,8 +20,8 @@ STFT determines the sinusoidal frequency and phase content of local sections of 
 CREPE transfer learns fundamental frequency using a pre-trained pitch model. 
 
 <p align="center">
-  <img src="https://github.com/SingingData/Industrial-Audio-Classification/tree/master/Media/General-Media/example-cqt-png.png" alt="Example CQT spectrogram"/ width=600>
-  <img src="https://github.com/SingingData/Industrial-Audio-Classification/tree/master/Media/General-Media/example-stft-png.png" alt="Example STFT spectrogram"/ width=600>
+  <img src="https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/example-cqt-png.png" alt="Example CQT spectrogram"/ width=600>
+  <img src="https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/example-stft-png.png" alt="Example STFT spectrogram"/ width=600>
 </p>
 
 ## Data Augmentation
