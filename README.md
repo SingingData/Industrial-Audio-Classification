@@ -27,6 +27,15 @@ CREPE transfer learns fundamental frequency using a pre-trained pitch model.
 ## Data Augmentation
 Scarce labeled data of expert quality, and variation between human experts, led us to explore alternative data augmentation techniques. We applied time and frequency masking of the 2D spectrograms with Specaugment.  We found this augmentation technique gave us the added benefit of stabilizing learning during training. We also added volume reduction and white noise to augment our source data. 
 
+## The Results
+The following table summarizes accuracy results for the tested data sets. 
+
+<p align="center">
+  <img src="https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/results-png.png" alt="Summary of Results"/ width=600>
+</p>
+
+https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/results-png.png
+
 ## References
 We leveraged and were inspired by some prior work.  I list here some of the key influences. 
 (1) CREPE: A Convolutional Representation for Pitch Estimation, Jong Wook Kim, Justin Salamon, Peter Li, Juan Pablo Bello, Feb 17, 2018 
