@@ -34,10 +34,9 @@ The following table summarizes accuracy results for the tested data sets.
   <img src="https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/results-png.png" alt="Summary of Results"/ width=600>
 </p>
 
-https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/General-Media/results-png.png
-
 ## References
 We leveraged and were inspired by some prior work.  I list here some of the key influences. 
+
 (1) CREPE: A Convolutional Representation for Pitch Estimation, Jong Wook Kim, Justin Salamon, Peter Li, Juan Pablo Bello, Feb 17, 2018 
 
 (2) Echolocation: Measurement of Pitch versus Distance for Sounds Reflected on a Flat Surface, The Journal of the Acoustical Society of Amer, May 1964, Bassett and Eastmond  
