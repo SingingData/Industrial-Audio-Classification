@@ -1,4 +1,4 @@
-# Industrial Audio Classification with Music Domain FEatures
+# Industrial Audio Classification with Music Domain Features
 December 21, 2019
 
 ## Contents
