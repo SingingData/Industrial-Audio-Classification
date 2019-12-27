@@ -25,7 +25,7 @@ CREPE transfer learns fundamental frequency using a pre-trained pitch model.
 </p>
 
 ## Data Augmentation
-Scarce labeled data of expert quality, and variation between human experts, led us to explore alternative data augmentation techniques. We applied time and frequency masking of the 2D spectrograms with Specaugment.  We found this augmentation technique gave us the added benefit of stabilizing learning during training. We also added volume reduction and white noise to augment our source data. 
+Scarce labeled data of expert quality and variation between human experts led us to explore alternative data augmentation techniques. We applied time and frequency masking of the 2D spectrograms with Specaugment.  We found this augmentation technique gave us the added benefit of stabilizing learning during training. We also added volume reduction and white noise to augment our source data. 
 
 ## The Results
 The following table summarizes accuracy results for the tested data sets. 
