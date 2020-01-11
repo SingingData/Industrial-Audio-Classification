@@ -3,7 +3,7 @@ December 21, 2019
 
 ## Contents
 This repo contains jupyter notebooks which demonstrate classifying industrial audio with music domain features.  
-This source data used for these classifications come from the 'VROOM' dataset.  This data can be found at this address https://github.com/SingingData/Vroom. We presented this work at the Women in Machine Learning workshop poster session at the opening reception of NeurIPS 2019 in Vancouver.  The NeurIPS Poster is here.  NeurIPS poster is here. https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/Ryan-NeurIPS-poster.pdf
+This source data used for these classifications come from the 'VROOM' dataset.  This data can be found at this address https://github.com/SingingData/Vroom. We presented this work at the Women in Machine Learning Workshop poster session at the opening reception of NeurIPS 2019 in Vancouver.  The NeurIPS Poster is here.  https://github.com/SingingData/Industrial-Audio-Classification/blob/master/Media/Ryan-NeurIPS-poster.pdf
 
 ## Motivation
 In a manufacturing setting, sounds that are heard on the factory floor provide unmistakable information about whether a machine or 
