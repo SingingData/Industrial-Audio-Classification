@@ -14,7 +14,7 @@ knowledge of what sounds right or wrong to help them identify quality problems b
 We use the Keras functional API with multi-input convnet model combining 1D representations of pitch estimations using pretrained model ‘CREPE’ using time domain waveform, and CQT or STFT 2D transforms.  We have applied this method to distinguish motorized tool quality classes in industrial settings to classify welding quality and machining settings.  We have also applied this method to distinguish between motor sounds as varied as models of aircrafts landing at LAX and specific ferry boats in operation on Puget Sound
 
 ## Featurization of Pitch and Timbre
-We characterize pitch and timbre through frequency domain changes over time, represented by 2D spectrograms based on either the Constant Q Transform (CQT) or the Short-Time Fourier Transform (STFT)
+We characterize pitch and timbre through frequency domain changes over time, represented by 2D spectrograms based on either the Constant Q Transform (CQT) or the Short-Time Fourier Transform (STFT).
 CQT is a time-frequency analysis method with higher frequency resolution at lower frequencies and higher time resolution towards higher frequencies3 better capturing both pitch and timbre* 
 STFT determines the sinusoidal frequency and phase content of local sections of the signal
 CREPE transfer learns fundamental frequency using a pre-trained pitch model. 
