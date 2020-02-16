@@ -1,4 +1,4 @@
-# Industrial Machine Learning Audio Classification with Music Domain Features
+# Industrial Audio Classification Machine Learning with Music Domain Features
 December 21, 2019
 
 ## Contents
